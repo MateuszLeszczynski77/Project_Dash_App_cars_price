@@ -2,7 +2,7 @@
 __Project Dash - application for predicting used car prices / aplikacja do predykcji cen samochodów używanych__
 
 
-<b>1. Project description / Opis projektu</b>
+## <b>1. Project description / Opis projektu</b>
    <p>Creating a regression model to predict used car prices. / Stworzenie modelu regresyjnego do predykcji cen samochodów używanych.</p>
    <p>The model was built on a dataset consisting of over 200_000 car advertisements from the Polish website otomoto. / Model został zbudowany na zbiorze danych, który składał się z ponad 200 tysięcy 
    ogłoszeń samochodów z polskiego serwisu otomoto.</p>
@@ -13,7 +13,7 @@ __Project Dash - application for predicting used car prices / aplikacja do predy
    W moim modelu można skorzystać z interaktywnych elementów do wybrania odpowiednich parametrów pojazdu, aby dokonać predykcji jego ceny. Całość przedstawiona w prosty i ładny sposób.</p>
    <p>Content: / Treść:</p>
    <p>The full dataset contains 208,304 observations of 25 variables. / Cały zbiór danych zawiera 208 304 obserwacji, 25 zmiennych.</p>
-   <p><b>2. Installation/loading instructions / Instalacja/załadowanie instrukcja</b></p>
+## <p><b>2. Installation/loading instructions / Instalacja/załadowanie instrukcja</b></p>
    <p>The repository contains the following files: / W repozytorium znajdują się poniższe pliki:</p>
    <p><b>1_data_model.ipynb</b> - file with data analysis and model creation / plik z analizą danych oraz stworzeniem modeli</p>
    <p><b>2_dash_app.py</b> - backend dash web application / backend aplikacja webowa dash</p>
