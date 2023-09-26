@@ -15,6 +15,7 @@ __Project Dash - application for predicting used car prices / aplikacja do predy
    <p>The full dataset contains 208,304 observations of 25 variables. / Cały zbiór danych zawiera 208 304 obserwacji, 25 zmiennych.</p>
    
    # <b>2. Installation/loading instructions / Instalacja/załadowanie instrukcja</b>
+   
    <p>The repository contains the following files: / W repozytorium znajdują się poniższe pliki:</p>
    <p><b>1_data_model.ipynb</b> - file with data analysis and model creation / plik z analizą danych oraz stworzeniem modeli</p>
    <p><b>2_dash_app.py</b> - backend dash web application / backend aplikacja webowa dash</p>
