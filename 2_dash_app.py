@@ -38,13 +38,10 @@ app.layout = html.Div([
         html.Label('Wybierz moc silnika:'),
         dcc.Slider(
             id='slider-2',
-            #min=30,
-           # max=1300,
             min=df.Power_HP.min(),
             max=df.Power_HP.max(),
             step=1,
             marks={i: str(i) for i in range(30, 1301, 50)},
-            #marks={i: str(i) for i in range(int(df.Power_HP.min()),int(df.Power_HP.max()),80)},
             tooltip={'placement': 'bottom'}
         ),
         html.Hr(),
@@ -52,8 +49,6 @@ app.layout = html.Div([
         html.Label('Wybierz pojemność silnika:'),
         dcc.Slider(
             id='slider-3',
-            #min=0,
-            #max=8500,
             min=df.Displacement_cm3.min(),
             max=df.Displacement_cm3.max(),
             step=1,
@@ -67,11 +62,8 @@ app.layout = html.Div([
             id='slider-4',
             min=0,
             max=600_000,
-            #min=df.Mileage_km.min(),
-            #max=df.Mileage_km.max(),
             step=1,
             marks={i: str(i) for i in range(0, 600_001, 50_000)},
-            #marks={i: str(i) for i in range(int(df.Mileage_km.min()), int(df.Mileage_km.max())+1, 50000)},
             tooltip={'placement': 'bottom'}
         ),
         html.Br(),
@@ -96,7 +88,7 @@ app.layout = html.Div([
             )
         ], style={'width': '10%', 'textAlign': 'left'}),
         html.Br(),
-        #siedem rozwijana lista
+        #siedem lista wybór
         html.Label('Skrzynia biegów:'),
         html.Div([
             dcc.RadioItems(
@@ -205,7 +197,7 @@ def predict_value(val1,val2,val3,val4,val5,val6,val7):
 
         #predykcja ceny
         price = model4.predict(df_sample)[0]
-        price = round(price/10,2)
+        price = round(price/10)
 
         return html.Div([
             html.H4(f'Sugerowana cena pojazdu: {price} PLN')
