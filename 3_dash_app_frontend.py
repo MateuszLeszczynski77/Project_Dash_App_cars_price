@@ -211,7 +211,7 @@ def predict_value(val1,val2,val3,val4,val5,val6,val7):
 
         #predykcja ceny
         price = model4.predict(df_sample)[0]
-        price = round(price/10,2)
+        price = round(price/10)
 
         return html.Div([
             html.H4(f'Sugerowana cena pojazdu: {price} PLN')
