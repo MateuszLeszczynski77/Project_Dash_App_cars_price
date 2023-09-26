@@ -15,9 +15,11 @@ Project Dash - application for predicting used car prices / aplikacja do predykc
    <p>The full dataset contains 208,304 observations of 25 variables. / Cały zbiór danych zawiera 208 304 obserwacji, 25 zmiennych.</p>
    <p><b>2. Installation/loading instructions / Instalacja/załadowanie instrukcja</b></p>
    <p>The repository contains the following files: / W repozytorium znajdują się poniższe pliki:</p>
-   <p>1_data_model.ipynb - file with data analysis and model creation / plik z analizą danych oraz stworzeniem modeli</p>
-   <p>2_dash_app.py - backend dash web application / backend aplikacja webowa dash</p>
-   <p>3_dash_app_frontend.py - backend and fronted dash web application / backend i fronted aplikacja webowa dash</p>
-   <p>df_cleaned.csv - prepared data set / przygotowany zbiór danych</p>
-   <p>model4.pickle - saved model for prediction / zapisany model do predykcji</p>
-   <p>directory assets - it contains two banners for the web application / znajdują się w nim dwa banery do aplikacji webowej</p>
+   <p><b>1_data_model.ipynb</b> - file with data analysis and model creation / plik z analizą danych oraz stworzeniem modeli</p>
+   <p><b>2_dash_app.py</b> - backend dash web application / backend aplikacja webowa dash</p>
+   <p><b>3_dash_app_frontend.py</b> - backend and fronted dash web application / backend i fronted aplikacja webowa dash</p>
+   <p><b>df_cleaned.csv</b> - prepared data set / przygotowany zbiór danych</p>
+   <p><b>model4.pickle</b> - saved model for prediction / zapisany model do predykcji</p>
+   <p><b>directory assets</b> - it contains two banners for the web application / znajdują się w nim dwa banery do aplikacji webowej</p>
+   <p><b>If you want to load the final version of the web application on your computer, you need to download the files from my repository and load them, e.g. into pycharm and select and run the file:    3_dash_app_frontend.py</b></p> 
+   <p><b>Jeśli chcesz załadować ostateczną wersję aplikacji webowej, musisz pobrać pliki z mojego repozytorium oraz załadować je np. do pycharm'a oraz włączyć plik: 3_dash_app_frontend.py</b></p> 
