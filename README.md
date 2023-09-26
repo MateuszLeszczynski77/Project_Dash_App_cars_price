@@ -32,5 +32,5 @@ Project Dash - application for predicting used car prices / aplikacja do predykc
    <p><b>6. Project status / Status projektu</b></p>
    <p>The project is in the beta phase and will be developed. / Projekt jest w fazie beta i będzie dalej rozwijany.</p>
    <p><b>7. A screenshot showing the web interface / Zrzut ekranu przedstawiający interfejs webowy</b></p>
-   ![Screenshot_1]('web_app_screen1.png')
+   ![Screenshot_1]('[web_app_screen1.png](https://raw.githubusercontent.com/MateuszLeszczynski77/Project_Dash_App_cars_price/main/web_app_screen1.png?token=GHSAT0AAAAAACIA7I2IALAH7UWUXJPX3VFGZITDH3Q)https://raw.githubusercontent.com/MateuszLeszczynski77/Project_Dash_App_cars_price/main/web_app_screen1.png?token=GHSAT0AAAAAACIA7I2IALAH7UWUXJPX3VFGZITDH3Q')
 
