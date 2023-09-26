@@ -43,7 +43,7 @@ __Project Dash - application for predicting used car prices / aplikacja do predy
    
    ### <b>6. Creator / Twórca</b>
    
-   <p><b>Mateusz Leszczyński</b> https://github.com/MateuszLeszczynski77</p>
+   <p><b>Mateusz Leszczyński</b> | https://github.com/MateuszLeszczynski77</p>
    
    ### <b>7. Project status / Status projektu</b>
    
