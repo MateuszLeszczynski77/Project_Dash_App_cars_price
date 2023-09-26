@@ -1,5 +1,5 @@
 # Project_Dash_App_cars_price
-<u>Project Dash - application for predicting used car prices / aplikacja do predykcji cen samochodów używanych</u>
+__Project Dash - application for predicting used car prices / aplikacja do predykcji cen samochodów używanych__
 
 
 <b>1. Project description / Opis projektu</b>
