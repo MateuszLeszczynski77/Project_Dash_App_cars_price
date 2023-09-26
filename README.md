@@ -35,7 +35,7 @@ __Project Dash - application for predicting used car prices / aplikacja do predy
    
    ### <b>4. Comments / Komentarze</b>
    
-   <p>Code files contain comments of a piece of code and specific sections in the code for the Dash web application. / Pliki z kodem zawierają komentarze fragmentu kodu oraz konkretnych sekcji w          kodzie dla webowej aplikacji Dash.</p>
+   <p>Code files contain comments of a piece of code and specific sections in the code for the Dash web application. / Pliki z kodem zawierają komentarze fragmentów kodu oraz konkretnych sekcji w          kodzie dla webowej aplikacji Dash.</p>
    
    ### <b>5. License / Licencja</b>
    
