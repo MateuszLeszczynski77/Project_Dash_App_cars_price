@@ -14,7 +14,7 @@ __Project Dash - application for predicting used car prices / aplikacja do predy
    <p>Content: / Treść:</p>
    <p>The full dataset contains 208,304 observations of 25 variables. / Cały zbiór danych zawiera 208 304 obserwacji, 25 zmiennych.</p>
    
-   # <b>2. Installation/loading instructions / Instalacja/załadowanie instrukcja</b>
+   # <b>2. Installation/ instructions / Instalacja/ instrukcja</b>
    
    <p>The repository contains the following files: / W repozytorium znajdują się poniższe pliki:</p>
    <p><b>1_data_model.ipynb</b> - file with data analysis and model creation / plik z analizą danych oraz stworzeniem modeli</p>
@@ -27,18 +27,23 @@ __Project Dash - application for predicting used car prices / aplikacja do predy
    <p><b>Jeśli chcesz załadować ostateczną wersję aplikacji webowej, musisz pobrać pliki z mojego repozytorium oraz załadować je np. do pycharm'a oraz włączyć plik: 3_dash_app_frontend.py</b></p>
    
    # <b>3. Comments / Komentarze</b>
+   
    <p>Code files contain comments of a piece of code and specific sections in the code for the Dash web application. / Pliki z kodem zawierają komentarze fragmentu kodu oraz konkretnych sekcji w          kodzie dla webowej aplikacji Dash.</p>
    
    # <b>4. License / Licencja</b>
+   
    <p>I consent to the free use and distribution of the source code. / Wyrażam zgodę na bezpłatne wykorzystanie i rozpowszechnianie kodu źródłowego.</p>
    
-   # <b>5. Creator / Twórca</b>
+   ## <b>5. Creator / Twórca</b>
+   
    <p><b>Mateusz Leszczyński</b></p>
    
    # <b>6. Project status / Status projektu</b>
+   
    <p>The project is in the beta phase and will be developed. / Projekt jest w fazie beta i będzie dalej rozwijany.</p>
    
    # <b>7. A screenshot showing the web interface / Zrzut ekranu przedstawiający interfejs webowy</b>
+   
    <img src="https://github.com/MateuszLeszczynski77/Project_Dash_App_cars_price/blob/main/web_app_screen1.png?raw=true" alt="screenshot_1">
    <p></p>
    <img src="https://github.com/MateuszLeszczynski77/Project_Dash_App_cars_price/blob/main/web_app_screen2.png?raw=true" alt="screenshot_2">
